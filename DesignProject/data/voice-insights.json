@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2026-03-24T04:52:33.478Z",
+    "cameraId": "C101",
+    "lectureName": "None",
+    "summary": "This lecture recording, identified with camera C101 and no specific lecture name, did not capture any clear speech transcript. The audio content primarily consisted of either silence, ambient background noise, or unintelligible sounds, making it impossible to discern any specific lecture material, academic content, or instructional dialogue. Consequently, no educational topics, key discussions, or learning objectives could be identified or summarized from this recording. Students should note that this recording provides no discernible lecture content for review or study purposes. There were no audible instructional segments or identifiable speaker presence to analyze for teaching points or emotional tone, and therefore, no summary of the lecture's substance can be provided.",
+    "keyTopics": [],
+    "actionItems": [],
+    "overallEmotion": "Undetermined due to lack of clear speech",
+    "emotionTimeline": [],
+    "transcript": "No clear speech transcript captured from the recording."
+  }
+]
