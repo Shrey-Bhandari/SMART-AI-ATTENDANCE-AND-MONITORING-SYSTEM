@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "student-1",
+      "description": "Student 1 Avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1529068755536-a5ade0dcb4e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY2NzQ2NzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "student-2",
+      "description": "Student 2 Avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1704859598327-0e9fe8fe1f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3R1ZGVudCUyMHBlcnNvbnxlbnwwfHx8fDE3NjY3NjEzODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student person"
+    },
+    {
+      "id": "student-3",
+      "description": "Student 3 Avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjY3NTQyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "student-4",
+      "description": "Student 4 Avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoZWFkc2hvdCUyMHN0dWRlbnR8ZW58MHx8fHwxNzY2NzYxMzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headshot student"
+    },
+    {
+      "id": "student-5",
+      "description": "Student 5 Avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1729834666410-bdfe14e0d360?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3J0cmFpdCUyMHlvdW5nfGVufDB8fHx8MTc2Njc2MTM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait young"
+    },
+    {
+      "id": "cam-101",
+      "description": "Camera C101 Feed",
+      "imageUrl": "https://images.unsplash.com/photo-1757192420329-39acf20a12b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjbGFzc3Jvb20lMjBzdHVkZW50c3xlbnwwfHx8fDE3NjY3MTEzNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "classroom students"
+    },
+    {
+      "id": "cam-102",
+      "description": "Camera C102 Feed",
+      "imageUrl": "https://images.unsplash.com/photo-1724315069759-3bac28f679f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsZWN0dXJlJTIwaGFsbHxlbnwwfHx8fDE3NjY2NjE1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lecture hall"
+    },
+    {
+      "id": "cam-103",
+      "description": "Camera C103 Feed",
+      "imageUrl": "https://images.unsplash.com/photo-1668092548064-730e05fd0324?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdHVkZW50cyUyMHdyaXRpbmd8ZW58MHx8fHwxNzY2NzYxMzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students writing"
+    },
+    {
+      "id": "cam-104",
+      "description": "Camera C104 Feed",
+      "imageUrl": "https://images.unsplash.com/photo-1574130303188-31a915382726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVhY2hlciUyMGNsYXNzcm9vbXxlbnwwfHx8fDE3NjY3MDgxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teacher classroom"
+    },
+    {
+      "id": "cam-105",
+      "description": "Camera C105 Feed",
+      "imageUrl": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dW5pdmVyc2l0eSUyMGNsYXNzfGVufDB8fHx8MTc2Njc2MTM4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "university class"
+    }
+  ]
+}
