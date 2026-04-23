@@ -138,7 +138,6 @@ local.py
 # Large data files
 *.csv
 !attendance_logs/*.csv
-embeddings/
 *.pkl
 *.pickle
 
